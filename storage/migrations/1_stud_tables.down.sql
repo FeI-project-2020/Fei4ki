@@ -1,0 +1,9 @@
+DROP TABLE IF EXISTS discount;
+DROP TABLE IF EXISTS classroom;
+DROP TABLE IF EXISTS authentificated_user;
+DROP TABLE IF EXISTS student;
+DROP TABLE IF EXISTS news;
+DROP TABLE IF EXISTS news_comment;
+DROP TABLE IF EXISTS comment;
+DROP TABLE IF EXISTS teacher;
+DROP TABLE IF EXISTS teacher_comment;
